@@ -7,7 +7,7 @@ CREATE TABLE teas(
   tea_type TEXT,
   in_stock BOOLEAN,
   quantity INTEGER,
-  harvest_year INTEGER,
+  harvest_year TEXT,
   origin TEXT,
   cultivar TEXT,
   elevation INTEGER
